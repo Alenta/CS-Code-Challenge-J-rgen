@@ -1,0 +1,28 @@
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/bin/Debug/net8.0/CS_Code_Challenges
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/bin/Debug/net8.0/CS_Code_Challenges.deps.json
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/bin/Debug/net8.0/CS_Code_Challenges.runtimeconfig.json
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/bin/Debug/net8.0/CS_Code_Challenges.dll
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/bin/Debug/net8.0/CS_Code_Challenges.pdb
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/obj/Debug/net8.0/CS_Code_Challenges.GeneratedMSBuildEditorConfig.editorconfig
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/obj/Debug/net8.0/CS_Code_Challenges.AssemblyInfoInputs.cache
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/obj/Debug/net8.0/CS_Code_Challenges.AssemblyInfo.cs
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/obj/Debug/net8.0/CS_Code_Challenges.csproj.CoreCompileInputs.cache
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/obj/Debug/net8.0/CS_Code_Challenges.dll
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/obj/Debug/net8.0/refint/CS_Code_Challenges.dll
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/obj/Debug/net8.0/CS_Code_Challenges.pdb
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/obj/Debug/net8.0/CS_Code_Challenges.genruntimeconfig.cache
+/home/fs/Dokumenter/Oppgaver_KH_Sep/CS_Code_Challenges/obj/Debug/net8.0/ref/CS_Code_Challenges.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\bin\Debug\net8.0\CS_Code_Challenges.exe
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\bin\Debug\net8.0\CS_Code_Challenges.deps.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\bin\Debug\net8.0\CS_Code_Challenges.runtimeconfig.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\bin\Debug\net8.0\CS_Code_Challenges.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\bin\Debug\net8.0\CS_Code_Challenges.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\obj\Debug\net8.0\CS_Code_Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\obj\Debug\net8.0\CS_Code_Challenges.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\obj\Debug\net8.0\CS_Code_Challenges.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\obj\Debug\net8.0\CS_Code_Challenges.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\obj\Debug\net8.0\CS_Code_Challenges.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\obj\Debug\net8.0\refint\CS_Code_Challenges.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\obj\Debug\net8.0\CS_Code_Challenges.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\obj\Debug\net8.0\CS_Code_Challenges.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\CS Code Challenge Jørgen\obj\Debug\net8.0\ref\CS_Code_Challenges.dll
